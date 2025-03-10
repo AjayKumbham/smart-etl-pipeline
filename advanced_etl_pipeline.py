@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as p
 import numpy as np
 from sklearn.preprocessing import StandardScaler, RobustScaler, LabelEncoder
 from sklearn.impute import SimpleImputer, KNNImputer
