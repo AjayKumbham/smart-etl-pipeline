@@ -30,7 +30,7 @@ processed_*.csv
 raw_*.csv
 *.csv
 
-# IDE
+# ID
 .vscode/
 .idea/
 *.swp
